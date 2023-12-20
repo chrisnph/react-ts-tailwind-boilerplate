@@ -1,4 +1,4 @@
-# React with TailWindCSS Example
+# React with TailWind Example
 
 ## Quick Links
 
