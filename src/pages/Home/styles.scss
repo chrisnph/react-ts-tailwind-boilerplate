@@ -1,0 +1,7 @@
+.container-home {
+  height: calc(100% - 12px);
+
+  @media (min-width: 768px) {
+    height: calc(100% - 22px);
+  }
+}
